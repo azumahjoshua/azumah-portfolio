@@ -14,11 +14,11 @@ function Layout() {
       >
         <div className="absolute inset-0" />
         <div className="absolute inset-0 flex flex-col items-start justify-center text-left text-white px-8">
-          <h1 className="text-4xl font-bold mb-2">Hi, I'm Azumah</h1>
+          <h1 className="text-4xl font-bold mb-2 mt-6">Hi, I'm Azumah</h1>
           <h2 className="text-2xl">DevOps & Cloud Engineer | Software Engineering Enthusiast</h2>
         </div>
       </div>
-      <main className="mt-4">
+      <main className="mt-2">
         <Outlet />
       </main>
       <Footer/>
