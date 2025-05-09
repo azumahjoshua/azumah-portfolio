@@ -1,1 +1,1 @@
-# azumah-portfolio
+# Joshua Azumah
